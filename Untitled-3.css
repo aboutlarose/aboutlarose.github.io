@@ -1,0 +1,150 @@
+@charset "UTF-8";
+/* CSS Document */
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.nav {
+	background-color:#001416;
+}
+
+.nav ul {
+	padding: 2% 20%;
+	display: flex;
+	justify-content:space-around;
+	
+}
+
+.nav ul h3 {
+	color: #CE862F;
+	font-size: 18pt;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; 
+}
+
+.noidung .modau h1{
+	font-size: 35pt;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color:#CE862F;
+}
+
+.noidung .modau p {
+	font-size: 12pt;
+	font-family:P"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color:#D2D2CC;
+	padding: 2%;
+}
+
+.noidung {
+	text-align: center;
+	padding: 5% 30%;
+}
+
+.noidung .modau {
+	margin: 0% 0% 15% ;
+}
+
+.noidung .headchef {
+	display: flex;
+	justify-content:space-around;
+	align-items: top;
+	padding-bottom: 10%;
+}
+
+h2 {
+	text-align: left;
+	font-size: 25pt;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color:#CE862F;
+}
+
+.noidung .headchef p {
+	padding-right: 5%;
+	text-align: left;
+	font-size: 12pt;
+	font-family:P"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color:#D2D2CC;
+	
+}
+
+.noidung .manage {
+	display: flex;
+	justify-content:space-around;
+	align-items: top;
+	padding-bottom: 10%;
+}
+
+.manage p {
+	text-align:right;
+	font-size: 12pt;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color:#D2D2CC;
+	padding-left: 5%;
+}
+
+h3 {
+	text-align: right;
+	font-size: 25pt;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color:#CE862F;
+}
+
+.vieclam {
+	padding: 5%;
+}
+
+.vieclam p {
+	font-size: 20pt;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color:#D2D2CC;
+	padding-bottom: 1%;
+	color:#CE862F;
+}
+
+.vieclam button {
+	background-color: transparent;
+	border-color:#D2D2CC;
+	border-radius: 10px;
+	margin-top:1%;
+	padding: 2% 4%;
+	color: #D2D2CC;
+	font-size: 11pt;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+
+.footer {
+	text-align: center;
+	background-color:#001416;
+	padding: 5%;
+}
+
+.footer p {
+	font-size: 12pt;
+	padding-bottom: 3%;
+	color:#D2D2CC;
+	
+}
+
+.footer ul {
+ display: flex;
+ justify-content:space-around;
+ padding: 0% 30% 2%;
+	
+}
+
+.footer ul h3 {
+	text-decoration: underline;
+	color:#CE862F;
+	font-size: 15pt;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+
+.noidung {
+	background-color: #002829;
+}
+
+hr {
+	display: block;
+    margin: 0% 30% 8% ;
+    border-width: 0.5px;
+}	
